@@ -1,3 +1,13 @@
+// import { IconName } from 'react-icons/io5';
+// import { IconName } from 'react-icons/hi';
+// import { IconName } from 'lucide-react';
+// import { IconName } from 'react-icons/fa6';
+
+
+
+
+
+
 import { Facebook, Twitter, Instagram, Youtube, PinIcon } from 'lucide-react'
 
 export default function SocialIcons() {
